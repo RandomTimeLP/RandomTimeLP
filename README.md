@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @RandomTimeLP
-https://twitch.tv/randomtimevr (Mostly VR streams in German but if someone english speaking joins, i'll try my best to speak english)
+Ich habe keine ahnung was ich hier mache, lustiges Zeug? Auf jeden fall.
 
 <!---
 RandomTimeLP/RandomTimeLP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
