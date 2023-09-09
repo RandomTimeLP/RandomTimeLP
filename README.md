@@ -1,8 +1,7 @@
-Main dev from ESA - Enhanced Stream Alerts: A way to easily create advanced alerts for your stream.
+Main dev from ESA - Enhanced Stream Alerts: A way to easily create advanced alerts for your stream.</br>
 Please Note: ESA is not yet publicly available.
 
-**What exactly is ESA planned to be?**
-
+**What exactly is ESA planned to be?**</br>
 ESA is developed to be an easy way to implement common events (like follows)
 and rather uncommon events (like switching songs in spotify) in to your stream. 
 
