@@ -10,6 +10,7 @@ For example from simple things like fonts or background images to more crazy stu
 like background and text animations that can respond to specific events like 
 someone follows right as the next song starts to play.
 
+Please Note: ESA is not yet publicly available.
 <!---
 RandomTimeLP/RandomTimeLP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
