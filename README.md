@@ -1,12 +1,12 @@
 I am a German hobby developer who primarly creates python modules for others to use.
 ### In active maintainance are
-- RTS_RemoteTunnelService
+- Redacted package name
 
 ### In passive maintainece are
 - RTS_Webuibuilder
 - RTS_ExtraDecorators
 - ExtraUtilities
-- RTS_Documentation
+- RTS_Twitchbot
 
 If you have any feature suggestion to any of the projects, feel free to submit them on the respective project pages.
 
